@@ -1,0 +1,541 @@
+[01-Sep-2021 15:22:02 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/libraries/Core.php on line 17
+[01-Sep-2021 15:22:14 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 37
+[01-Sep-2021 15:22:14 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 37
+[01-Sep-2021 15:22:14 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 39
+[01-Sep-2021 15:22:14 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 39
+[01-Sep-2021 15:22:14 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 41
+[01-Sep-2021 15:22:14 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 41
+[01-Sep-2021 15:22:14 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 43
+[01-Sep-2021 15:22:14 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 43
+[01-Sep-2021 15:22:14 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 45
+[01-Sep-2021 15:22:14 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 45
+[01-Sep-2021 15:22:14 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 214
+[01-Sep-2021 15:22:14 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 214
+[01-Sep-2021 15:22:14 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 214
+[01-Sep-2021 15:22:14 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 214
+[01-Sep-2021 15:22:14 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 214
+[01-Sep-2021 15:22:14 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 214
+[01-Sep-2021 15:22:14 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 216
+[01-Sep-2021 15:22:14 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 216
+[01-Sep-2021 15:22:14 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/inventario/herramientas/ListadoHerramientas.php on line 16
+[01-Sep-2021 15:22:14 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/inventario/herramientas/ListadoHerramientas.php on line 16
+[01-Sep-2021 15:22:15 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/libraries/Core.php on line 17
+[01-Sep-2021 15:24:46 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/libraries/Core.php on line 17
+[01-Sep-2021 15:26:24 America/Bogota] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/senasede/public_html/siginv/app/views/inventario/materiales/ListadoMateriales.php on line 102
+[01-Sep-2021 15:27:07 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 37
+[01-Sep-2021 15:27:07 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 37
+[01-Sep-2021 15:27:07 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 39
+[01-Sep-2021 15:27:07 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 39
+[01-Sep-2021 15:27:07 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 41
+[01-Sep-2021 15:27:07 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 41
+[01-Sep-2021 15:27:07 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 43
+[01-Sep-2021 15:27:07 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 43
+[01-Sep-2021 15:27:07 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 45
+[01-Sep-2021 15:27:07 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 45
+[01-Sep-2021 15:27:07 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 214
+[01-Sep-2021 15:27:07 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 214
+[01-Sep-2021 15:27:07 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 214
+[01-Sep-2021 15:27:07 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 214
+[01-Sep-2021 15:27:07 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 214
+[01-Sep-2021 15:27:07 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 214
+[01-Sep-2021 15:27:07 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 216
+[01-Sep-2021 15:27:07 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 216
+[01-Sep-2021 15:27:07 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/inventario/herramientas/ListadoHerramientas.php on line 16
+[01-Sep-2021 15:27:07 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/inventario/herramientas/ListadoHerramientas.php on line 16
+[01-Sep-2021 15:27:19 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 37
+[01-Sep-2021 15:27:19 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 37
+[01-Sep-2021 15:27:19 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 39
+[01-Sep-2021 15:27:19 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 39
+[01-Sep-2021 15:27:19 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 41
+[01-Sep-2021 15:27:19 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 41
+[01-Sep-2021 15:27:19 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 43
+[01-Sep-2021 15:27:19 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 43
+[01-Sep-2021 15:27:19 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 45
+[01-Sep-2021 15:27:19 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 45
+[01-Sep-2021 15:27:19 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 214
+[01-Sep-2021 15:27:19 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 214
+[01-Sep-2021 15:27:19 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 214
+[01-Sep-2021 15:27:19 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 214
+[01-Sep-2021 15:27:19 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 214
+[01-Sep-2021 15:27:19 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 214
+[01-Sep-2021 15:27:19 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 216
+[01-Sep-2021 15:27:19 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 216
+[01-Sep-2021 15:27:19 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/inventario/herramientas/ListadoHerramientas.php on line 16
+[01-Sep-2021 15:27:19 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/inventario/herramientas/ListadoHerramientas.php on line 16
+[01-Sep-2021 15:27:21 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 37
+[01-Sep-2021 15:27:21 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 37
+[01-Sep-2021 15:27:21 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 39
+[01-Sep-2021 15:27:21 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 39
+[01-Sep-2021 15:27:21 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 41
+[01-Sep-2021 15:27:21 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 41
+[01-Sep-2021 15:27:21 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 43
+[01-Sep-2021 15:27:21 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 43
+[01-Sep-2021 15:27:21 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 45
+[01-Sep-2021 15:27:21 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 45
+[01-Sep-2021 15:27:21 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 214
+[01-Sep-2021 15:27:21 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 214
+[01-Sep-2021 15:27:21 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 214
+[01-Sep-2021 15:27:21 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 214
+[01-Sep-2021 15:27:21 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 214
+[01-Sep-2021 15:27:21 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 214
+[01-Sep-2021 15:27:21 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 216
+[01-Sep-2021 15:27:21 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 216
+[01-Sep-2021 15:27:21 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/inventario/herramientas/ListadoHerramientas.php on line 16
+[01-Sep-2021 15:27:21 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/inventario/herramientas/ListadoHerramientas.php on line 16
+[01-Sep-2021 15:28:17 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 37
+[01-Sep-2021 15:28:17 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 37
+[01-Sep-2021 15:28:17 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 39
+[01-Sep-2021 15:28:17 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 39
+[01-Sep-2021 15:28:17 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 41
+[01-Sep-2021 15:28:17 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 41
+[01-Sep-2021 15:28:17 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 43
+[01-Sep-2021 15:28:17 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 43
+[01-Sep-2021 15:28:17 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 45
+[01-Sep-2021 15:28:17 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 45
+[01-Sep-2021 15:28:17 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 214
+[01-Sep-2021 15:28:17 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 214
+[01-Sep-2021 15:28:17 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 214
+[01-Sep-2021 15:28:17 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 214
+[01-Sep-2021 15:28:17 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 214
+[01-Sep-2021 15:28:17 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 214
+[01-Sep-2021 15:28:17 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/template.php on line 216
+[01-Sep-2021 15:28:17 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/template.php on line 216
+[01-Sep-2021 15:28:17 America/Bogota] PHP Notice:  Undefined index: sesion_active in /home/senasede/public_html/siginv/app/views/inventario/herramientas/ListadoHerramientas.php on line 16
+[01-Sep-2021 15:28:17 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/inventario/herramientas/ListadoHerramientas.php on line 16
+[01-Sep-2021 15:28:49 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/libraries/Core.php on line 17
+[01-Sep-2021 15:36:07 America/Bogota] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'Ajax' does not have a method 'index' in /home/senasede/public_html/siginv/app/libraries/Core.php on line 44
+[01-Sep-2021 15:36:10 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 24
+[01-Sep-2021 15:36:10 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 24
+[01-Sep-2021 15:36:10 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 34
+[01-Sep-2021 15:36:10 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 34
+[01-Sep-2021 15:36:10 America/Bogota] PHP Notice:  Undefined index: ListarEstantes in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 94
+[01-Sep-2021 15:36:10 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 94
+[01-Sep-2021 15:36:25 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 24
+[01-Sep-2021 15:36:25 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 24
+[01-Sep-2021 15:36:25 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 34
+[01-Sep-2021 15:36:25 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 34
+[01-Sep-2021 15:36:25 America/Bogota] PHP Notice:  Undefined index: ListarEstantes in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 94
+[01-Sep-2021 15:36:25 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 94
+[01-Sep-2021 15:36:31 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 24
+[01-Sep-2021 15:36:31 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 24
+[01-Sep-2021 15:36:31 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 34
+[01-Sep-2021 15:36:31 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 34
+[01-Sep-2021 15:36:31 America/Bogota] PHP Notice:  Undefined index: ListarEstantes in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 94
+[01-Sep-2021 15:36:31 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 94
+[02-Sep-2021 08:38:59 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/libraries/Core.php on line 17
+[02-Sep-2021 09:09:17 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/libraries/Core.php on line 17
+[02-Sep-2021 10:19:25 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/libraries/Core.php on line 17
+[02-Sep-2021 10:19:42 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/libraries/Core.php on line 17
+[02-Sep-2021 10:22:29 America/Bogota] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'Ajax' does not have a method 'index' in /home/senasede/public_html/siginv/app/libraries/Core.php on line 44
+[02-Sep-2021 10:24:31 America/Bogota] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/senasede/public_html/siginv/app/models/CentroModel.php on line 31
+[02-Sep-2021 10:25:19 America/Bogota] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/senasede/public_html/siginv/app/models/CentroModel.php on line 31
+[02-Sep-2021 10:26:24 America/Bogota] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/senasede/public_html/siginv/app/models/CentroModel.php on line 31
+[02-Sep-2021 10:26:46 America/Bogota] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/senasede/public_html/siginv/app/models/CentroModel.php on line 31
+[02-Sep-2021 10:28:00 America/Bogota] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/senasede/public_html/siginv/app/models/CentroModel.php on line 31
+[02-Sep-2021 10:28:08 America/Bogota] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/senasede/public_html/siginv/app/models/CentroModel.php on line 31
+[02-Sep-2021 10:28:12 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/libraries/Core.php on line 17
+[02-Sep-2021 10:28:20 America/Bogota] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/senasede/public_html/siginv/app/models/CentroModel.php on line 31
+[02-Sep-2021 10:29:31 America/Bogota] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/senasede/public_html/siginv/app/views/inventario/materiales/ListadoMateriales.php on line 102
+[02-Sep-2021 10:31:52 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 24
+[02-Sep-2021 10:31:52 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 24
+[02-Sep-2021 10:31:52 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 34
+[02-Sep-2021 10:31:52 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 34
+[02-Sep-2021 10:31:52 America/Bogota] PHP Notice:  Undefined index: ListarEstantes in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 94
+[02-Sep-2021 10:31:52 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 94
+[02-Sep-2021 10:31:57 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 26
+[02-Sep-2021 10:31:57 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 26
+[02-Sep-2021 10:31:57 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 38
+[02-Sep-2021 10:31:57 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 38
+[02-Sep-2021 10:31:57 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 50
+[02-Sep-2021 10:31:57 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 50
+[02-Sep-2021 10:31:57 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 104
+[02-Sep-2021 10:31:57 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 104
+[02-Sep-2021 10:32:06 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 23
+[02-Sep-2021 10:32:06 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 23
+[02-Sep-2021 10:32:06 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 35
+[02-Sep-2021 10:32:06 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 35
+[02-Sep-2021 10:32:06 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 47
+[02-Sep-2021 10:32:06 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 47
+[02-Sep-2021 10:42:37 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 23
+[02-Sep-2021 10:42:37 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 23
+[02-Sep-2021 10:42:37 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 35
+[02-Sep-2021 10:42:37 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 35
+[02-Sep-2021 10:42:37 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 47
+[02-Sep-2021 10:42:37 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 47
+[02-Sep-2021 10:42:40 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 23
+[02-Sep-2021 10:42:40 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 23
+[02-Sep-2021 10:42:40 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 35
+[02-Sep-2021 10:42:40 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 35
+[02-Sep-2021 10:42:40 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 47
+[02-Sep-2021 10:42:40 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 47
+[02-Sep-2021 10:42:43 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 23
+[02-Sep-2021 10:42:43 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 23
+[02-Sep-2021 10:42:43 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 35
+[02-Sep-2021 10:42:43 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 35
+[02-Sep-2021 10:42:43 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 47
+[02-Sep-2021 10:42:43 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 47
+[02-Sep-2021 10:42:51 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 23
+[02-Sep-2021 10:42:51 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 23
+[02-Sep-2021 10:42:51 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 35
+[02-Sep-2021 10:42:51 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 35
+[02-Sep-2021 10:42:51 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 47
+[02-Sep-2021 10:42:51 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 47
+[02-Sep-2021 10:43:01 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 23
+[02-Sep-2021 10:43:01 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 23
+[02-Sep-2021 10:43:01 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 35
+[02-Sep-2021 10:43:01 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 35
+[02-Sep-2021 10:43:01 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 47
+[02-Sep-2021 10:43:01 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 47
+[02-Sep-2021 10:44:16 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 23
+[02-Sep-2021 10:44:16 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 23
+[02-Sep-2021 10:44:16 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 35
+[02-Sep-2021 10:44:16 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 35
+[02-Sep-2021 10:44:16 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 47
+[02-Sep-2021 10:44:16 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 47
+[02-Sep-2021 10:44:47 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/libraries/Core.php on line 17
+[02-Sep-2021 10:44:53 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 23
+[02-Sep-2021 10:44:53 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 23
+[02-Sep-2021 10:44:53 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 35
+[02-Sep-2021 10:44:53 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 35
+[02-Sep-2021 10:44:53 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 47
+[02-Sep-2021 10:44:53 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 47
+[02-Sep-2021 10:46:08 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 26
+[02-Sep-2021 10:46:08 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 26
+[02-Sep-2021 10:46:08 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 38
+[02-Sep-2021 10:46:08 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 38
+[02-Sep-2021 10:46:08 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 50
+[02-Sep-2021 10:46:08 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 50
+[02-Sep-2021 10:46:08 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 104
+[02-Sep-2021 10:46:08 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 104
+[02-Sep-2021 10:46:11 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 24
+[02-Sep-2021 10:46:11 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 24
+[02-Sep-2021 10:46:11 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 34
+[02-Sep-2021 10:46:11 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 34
+[02-Sep-2021 10:46:11 America/Bogota] PHP Notice:  Undefined index: ListarEstantes in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 94
+[02-Sep-2021 10:46:11 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 94
+[02-Sep-2021 10:46:14 America/Bogota] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/senasede/public_html/siginv/app/models/CentroModel.php on line 31
+[02-Sep-2021 10:47:18 America/Bogota] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/senasede/public_html/siginv/app/models/CentroModel.php on line 31
+[02-Sep-2021 10:47:21 America/Bogota] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/senasede/public_html/siginv/app/models/CentroModel.php on line 31
+[02-Sep-2021 10:47:29 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 24
+[02-Sep-2021 10:47:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 24
+[02-Sep-2021 10:47:29 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 34
+[02-Sep-2021 10:47:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 34
+[02-Sep-2021 10:47:29 America/Bogota] PHP Notice:  Undefined index: ListarEstantes in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 94
+[02-Sep-2021 10:47:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 94
+[02-Sep-2021 10:47:40 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 24
+[02-Sep-2021 10:47:40 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 24
+[02-Sep-2021 10:47:40 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 34
+[02-Sep-2021 10:47:40 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 34
+[02-Sep-2021 10:47:40 America/Bogota] PHP Notice:  Undefined index: ListarEstantes in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 94
+[02-Sep-2021 10:47:40 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Sede/Agregar.php on line 94
+[02-Sep-2021 10:47:42 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 26
+[02-Sep-2021 10:47:42 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 26
+[02-Sep-2021 10:47:42 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 38
+[02-Sep-2021 10:47:42 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 38
+[02-Sep-2021 10:47:42 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 50
+[02-Sep-2021 10:47:42 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 50
+[02-Sep-2021 10:47:42 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 104
+[02-Sep-2021 10:47:42 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 104
+[02-Sep-2021 10:47:44 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 26
+[02-Sep-2021 10:47:44 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 26
+[02-Sep-2021 10:47:44 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 38
+[02-Sep-2021 10:47:44 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 38
+[02-Sep-2021 10:47:44 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 50
+[02-Sep-2021 10:47:44 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 50
+[02-Sep-2021 10:47:44 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 104
+[02-Sep-2021 10:47:44 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 104
+[02-Sep-2021 10:48:16 America/Bogota] PHP Notice:  Undefined variable: datos in /home/senasede/public_html/siginv/app/controllers/Bodega.php on line 10
+[02-Sep-2021 10:48:17 America/Bogota] PHP Notice:  Undefined variable: datos in /home/senasede/public_html/siginv/app/controllers/Bodega.php on line 10
+[02-Sep-2021 10:48:21 America/Bogota] PHP Notice:  Undefined variable: datos in /home/senasede/public_html/siginv/app/controllers/Bodega.php on line 10
+[02-Sep-2021 10:49:56 America/Bogota] PHP Notice:  Undefined variable: datos in /home/senasede/public_html/siginv/app/controllers/Bodega.php on line 10
+[02-Sep-2021 10:49:56 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 23
+[02-Sep-2021 10:49:56 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 23
+[02-Sep-2021 10:49:56 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 35
+[02-Sep-2021 10:49:56 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 35
+[02-Sep-2021 10:49:56 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 47
+[02-Sep-2021 10:49:56 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 47
+[02-Sep-2021 10:49:56 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 59
+[02-Sep-2021 10:49:56 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 59
+[02-Sep-2021 10:49:56 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 116
+[02-Sep-2021 10:49:56 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 116
+[02-Sep-2021 10:50:31 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 26
+[02-Sep-2021 10:50:31 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 26
+[02-Sep-2021 10:50:31 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 38
+[02-Sep-2021 10:50:31 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 38
+[02-Sep-2021 10:50:31 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 50
+[02-Sep-2021 10:50:31 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 50
+[02-Sep-2021 10:50:31 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 104
+[02-Sep-2021 10:50:31 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 104
+[02-Sep-2021 10:55:17 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 26
+[02-Sep-2021 10:55:17 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 26
+[02-Sep-2021 10:55:17 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 38
+[02-Sep-2021 10:55:17 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 38
+[02-Sep-2021 10:55:17 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 50
+[02-Sep-2021 10:55:17 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 50
+[02-Sep-2021 10:55:17 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 104
+[02-Sep-2021 10:55:17 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 104
+[02-Sep-2021 10:55:20 America/Bogota] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'Bodega' does not have a method 'index' in /home/senasede/public_html/siginv/app/libraries/Core.php on line 44
+[02-Sep-2021 11:00:32 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 26
+[02-Sep-2021 11:00:32 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 26
+[02-Sep-2021 11:00:32 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 38
+[02-Sep-2021 11:00:32 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 38
+[02-Sep-2021 11:00:32 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 50
+[02-Sep-2021 11:00:32 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 50
+[02-Sep-2021 11:00:32 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 104
+[02-Sep-2021 11:00:32 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 104
+[02-Sep-2021 11:06:26 America/Bogota] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'Bodega' does not have a method 'index' in /home/senasede/public_html/siginv/app/libraries/Core.php on line 44
+[02-Sep-2021 11:08:05 America/Bogota] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'Bodega' does not have a method 'index' in /home/senasede/public_html/siginv/app/libraries/Core.php on line 44
+[02-Sep-2021 11:08:18 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/libraries/Core.php on line 17
+[02-Sep-2021 11:08:26 America/Bogota] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'Bodega' does not have a method 'index' in /home/senasede/public_html/siginv/app/libraries/Core.php on line 44
+[02-Sep-2021 11:08:28 America/Bogota] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'Bodega' does not have a method 'index' in /home/senasede/public_html/siginv/app/libraries/Core.php on line 44
+[02-Sep-2021 11:09:13 America/Bogota] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'Bodega' does not have a method 'index' in /home/senasede/public_html/siginv/app/libraries/Core.php on line 44
+[02-Sep-2021 11:09:14 America/Bogota] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'Bodega' does not have a method 'index' in /home/senasede/public_html/siginv/app/libraries/Core.php on line 44
+[02-Sep-2021 11:09:15 America/Bogota] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'Bodega' does not have a method 'index' in /home/senasede/public_html/siginv/app/libraries/Core.php on line 44
+[02-Sep-2021 11:09:15 America/Bogota] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'Bodega' does not have a method 'index' in /home/senasede/public_html/siginv/app/libraries/Core.php on line 44
+[02-Sep-2021 11:09:15 America/Bogota] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'Bodega' does not have a method 'index' in /home/senasede/public_html/siginv/app/libraries/Core.php on line 44
+[02-Sep-2021 11:09:15 America/Bogota] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'Bodega' does not have a method 'index' in /home/senasede/public_html/siginv/app/libraries/Core.php on line 44
+[02-Sep-2021 11:09:15 America/Bogota] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'Bodega' does not have a method 'index' in /home/senasede/public_html/siginv/app/libraries/Core.php on line 44
+[02-Sep-2021 11:09:22 America/Bogota] PHP Warning:  require_once(libraries/Intrutor.php): failed to open stream: No such file or directory in /home/senasede/public_html/siginv/app/autoload.php on line 12
+[02-Sep-2021 11:09:22 America/Bogota] PHP Fatal error:  require_once(): Failed opening required 'libraries/Intrutor.php' (include_path='.:/usr/share/php:/opt/alt/php74/usr/share/php:/opt/alt/php74/usr/share/pear') in /home/senasede/public_html/siginv/app/autoload.php on line 12
+[02-Sep-2021 11:09:24 America/Bogota] PHP Warning:  require_once(libraries/Intrutor.php): failed to open stream: No such file or directory in /home/senasede/public_html/siginv/app/autoload.php on line 12
+[02-Sep-2021 11:09:24 America/Bogota] PHP Fatal error:  require_once(): Failed opening required 'libraries/Intrutor.php' (include_path='.:/usr/share/php:/opt/alt/php74/usr/share/php:/opt/alt/php74/usr/share/pear') in /home/senasede/public_html/siginv/app/autoload.php on line 12
+[02-Sep-2021 11:09:25 America/Bogota] PHP Warning:  require_once(libraries/Intrutor.php): failed to open stream: No such file or directory in /home/senasede/public_html/siginv/app/autoload.php on line 12
+[02-Sep-2021 11:09:25 America/Bogota] PHP Fatal error:  require_once(): Failed opening required 'libraries/Intrutor.php' (include_path='.:/usr/share/php:/opt/alt/php74/usr/share/php:/opt/alt/php74/usr/share/pear') in /home/senasede/public_html/siginv/app/autoload.php on line 12
+[02-Sep-2021 11:09:55 America/Bogota] PHP Warning:  require_once(libraries/Intrutor.php): failed to open stream: No such file or directory in /home/senasede/public_html/siginv/app/autoload.php on line 12
+[02-Sep-2021 11:09:55 America/Bogota] PHP Fatal error:  require_once(): Failed opening required 'libraries/Intrutor.php' (include_path='.:/usr/share/php:/opt/alt/php74/usr/share/php:/opt/alt/php74/usr/share/pear') in /home/senasede/public_html/siginv/app/autoload.php on line 12
+[02-Sep-2021 11:09:56 America/Bogota] PHP Warning:  require_once(libraries/Intrutor.php): failed to open stream: No such file or directory in /home/senasede/public_html/siginv/app/autoload.php on line 12
+[02-Sep-2021 11:09:56 America/Bogota] PHP Fatal error:  require_once(): Failed opening required 'libraries/Intrutor.php' (include_path='.:/usr/share/php:/opt/alt/php74/usr/share/php:/opt/alt/php74/usr/share/pear') in /home/senasede/public_html/siginv/app/autoload.php on line 12
+[02-Sep-2021 11:09:57 America/Bogota] PHP Warning:  require_once(libraries/Intrutor.php): failed to open stream: No such file or directory in /home/senasede/public_html/siginv/app/autoload.php on line 12
+[02-Sep-2021 11:09:57 America/Bogota] PHP Fatal error:  require_once(): Failed opening required 'libraries/Intrutor.php' (include_path='.:/usr/share/php:/opt/alt/php74/usr/share/php:/opt/alt/php74/usr/share/pear') in /home/senasede/public_html/siginv/app/autoload.php on line 12
+[02-Sep-2021 11:09:58 America/Bogota] PHP Warning:  require_once(libraries/Intrutor.php): failed to open stream: No such file or directory in /home/senasede/public_html/siginv/app/autoload.php on line 12
+[02-Sep-2021 11:09:58 America/Bogota] PHP Fatal error:  require_once(): Failed opening required 'libraries/Intrutor.php' (include_path='.:/usr/share/php:/opt/alt/php74/usr/share/php:/opt/alt/php74/usr/share/pear') in /home/senasede/public_html/siginv/app/autoload.php on line 12
+[02-Sep-2021 11:10:05 America/Bogota] PHP Warning:  require_once(libraries/Intrutor.php): failed to open stream: No such file or directory in /home/senasede/public_html/siginv/app/autoload.php on line 12
+[02-Sep-2021 11:10:05 America/Bogota] PHP Fatal error:  require_once(): Failed opening required 'libraries/Intrutor.php' (include_path='.:/usr/share/php:/opt/alt/php74/usr/share/php:/opt/alt/php74/usr/share/pear') in /home/senasede/public_html/siginv/app/autoload.php on line 12
+[02-Sep-2021 11:17:50 America/Bogota] PHP Notice:  Undefined variable: datos in /home/senasede/public_html/siginv/app/controllers/Intrutor.php on line 10
+[02-Sep-2021 11:17:50 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 26
+[02-Sep-2021 11:17:50 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 26
+[02-Sep-2021 11:17:50 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 38
+[02-Sep-2021 11:17:50 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 38
+[02-Sep-2021 11:17:50 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 50
+[02-Sep-2021 11:17:50 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 50
+[02-Sep-2021 11:17:50 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 104
+[02-Sep-2021 11:17:50 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 104
+[02-Sep-2021 11:20:22 America/Bogota] PHP Notice:  Undefined variable: datos in /home/senasede/public_html/siginv/app/controllers/Intrutor.php on line 10
+[02-Sep-2021 11:20:22 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 26
+[02-Sep-2021 11:20:22 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 26
+[02-Sep-2021 11:20:22 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 38
+[02-Sep-2021 11:20:22 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 38
+[02-Sep-2021 11:20:22 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 50
+[02-Sep-2021 11:20:22 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 50
+[02-Sep-2021 11:20:22 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 104
+[02-Sep-2021 11:20:22 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 104
+[02-Sep-2021 11:21:16 America/Bogota] PHP Notice:  Undefined variable: datos in /home/senasede/public_html/siginv/app/controllers/Intrutor.php on line 10
+[02-Sep-2021 11:21:16 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 26
+[02-Sep-2021 11:21:16 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 26
+[02-Sep-2021 11:21:16 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 38
+[02-Sep-2021 11:21:16 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 38
+[02-Sep-2021 11:21:16 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 50
+[02-Sep-2021 11:21:16 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 50
+[02-Sep-2021 11:21:16 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 104
+[02-Sep-2021 11:21:16 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 104
+[02-Sep-2021 11:22:49 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 23
+[02-Sep-2021 11:22:49 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 23
+[02-Sep-2021 11:22:49 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 35
+[02-Sep-2021 11:22:49 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 35
+[02-Sep-2021 11:22:49 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 47
+[02-Sep-2021 11:22:49 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 47
+[02-Sep-2021 11:23:52 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 26
+[02-Sep-2021 11:23:52 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 26
+[02-Sep-2021 11:23:52 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 38
+[02-Sep-2021 11:23:52 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 38
+[02-Sep-2021 11:23:52 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 50
+[02-Sep-2021 11:23:52 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 50
+[02-Sep-2021 11:23:52 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 104
+[02-Sep-2021 11:23:52 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 104
+[02-Sep-2021 11:24:09 America/Bogota] PHP Notice:  Undefined variable: datos in /home/senasede/public_html/siginv/app/controllers/Intrutor.php on line 10
+[02-Sep-2021 11:24:09 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 26
+[02-Sep-2021 11:24:09 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 26
+[02-Sep-2021 11:24:09 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 38
+[02-Sep-2021 11:24:09 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 38
+[02-Sep-2021 11:24:09 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 53
+[02-Sep-2021 11:24:09 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 53
+[02-Sep-2021 11:24:09 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 65
+[02-Sep-2021 11:24:09 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 65
+[02-Sep-2021 11:24:09 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 119
+[02-Sep-2021 11:24:09 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 119
+[02-Sep-2021 11:24:39 America/Bogota] PHP Notice:  Undefined variable: datos in /home/senasede/public_html/siginv/app/controllers/Intrutor.php on line 10
+[02-Sep-2021 11:24:39 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 26
+[02-Sep-2021 11:24:39 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 26
+[02-Sep-2021 11:24:39 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 38
+[02-Sep-2021 11:24:39 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 38
+[02-Sep-2021 11:24:39 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 50
+[02-Sep-2021 11:24:39 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 50
+[02-Sep-2021 11:24:39 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 104
+[02-Sep-2021 11:24:39 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 104
+[02-Sep-2021 11:25:49 America/Bogota] PHP Notice:  Undefined variable: datos in /home/senasede/public_html/siginv/app/controllers/Intrutor.php on line 10
+[02-Sep-2021 11:25:49 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 26
+[02-Sep-2021 11:25:49 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 26
+[02-Sep-2021 11:25:49 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 38
+[02-Sep-2021 11:25:49 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 38
+[02-Sep-2021 11:25:49 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 50
+[02-Sep-2021 11:25:49 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 50
+[02-Sep-2021 11:25:49 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 62
+[02-Sep-2021 11:25:49 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 62
+[02-Sep-2021 11:25:49 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 116
+[02-Sep-2021 11:25:49 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 116
+[02-Sep-2021 11:26:12 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 26
+[02-Sep-2021 11:26:12 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 26
+[02-Sep-2021 11:26:12 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 38
+[02-Sep-2021 11:26:12 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 38
+[02-Sep-2021 11:26:12 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 50
+[02-Sep-2021 11:26:12 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 50
+[02-Sep-2021 11:26:12 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 104
+[02-Sep-2021 11:26:12 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 104
+[02-Sep-2021 11:26:17 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 26
+[02-Sep-2021 11:26:17 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 26
+[02-Sep-2021 11:26:17 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 38
+[02-Sep-2021 11:26:17 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 38
+[02-Sep-2021 11:26:17 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 50
+[02-Sep-2021 11:26:17 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 50
+[02-Sep-2021 11:26:17 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 104
+[02-Sep-2021 11:26:17 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 104
+[02-Sep-2021 11:26:25 America/Bogota] PHP Notice:  Undefined variable: datos in /home/senasede/public_html/siginv/app/controllers/Intrutor.php on line 10
+[02-Sep-2021 11:26:25 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 26
+[02-Sep-2021 11:26:25 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 26
+[02-Sep-2021 11:26:25 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 38
+[02-Sep-2021 11:26:25 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 38
+[02-Sep-2021 11:26:25 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 50
+[02-Sep-2021 11:26:25 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 50
+[02-Sep-2021 11:26:25 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 62
+[02-Sep-2021 11:26:25 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 62
+[02-Sep-2021 11:26:25 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 116
+[02-Sep-2021 11:26:25 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Intrutor/ListarIntrutor.php on line 116
+[02-Sep-2021 11:26:29 America/Bogota] PHP Notice:  Undefined variable: datos in /home/senasede/public_html/siginv/app/controllers/Bodega.php on line 10
+[02-Sep-2021 11:26:29 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 23
+[02-Sep-2021 11:26:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 23
+[02-Sep-2021 11:26:29 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 35
+[02-Sep-2021 11:26:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 35
+[02-Sep-2021 11:26:29 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 47
+[02-Sep-2021 11:26:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 47
+[02-Sep-2021 11:26:29 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 59
+[02-Sep-2021 11:26:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 59
+[02-Sep-2021 11:26:29 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 116
+[02-Sep-2021 11:26:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 116
+[02-Sep-2021 11:28:16 America/Bogota] PHP Notice:  Undefined variable: datos in /home/senasede/public_html/siginv/app/controllers/Bodega.php on line 10
+[02-Sep-2021 11:28:16 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 23
+[02-Sep-2021 11:28:16 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 23
+[02-Sep-2021 11:28:16 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 35
+[02-Sep-2021 11:28:16 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 35
+[02-Sep-2021 11:28:16 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 47
+[02-Sep-2021 11:28:16 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 47
+[02-Sep-2021 11:28:16 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 59
+[02-Sep-2021 11:28:16 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 59
+[02-Sep-2021 11:28:16 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 71
+[02-Sep-2021 11:28:16 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 71
+[02-Sep-2021 11:28:16 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 129
+[02-Sep-2021 11:28:16 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 129
+[02-Sep-2021 11:28:38 America/Bogota] PHP Notice:  Undefined variable: datos in /home/senasede/public_html/siginv/app/controllers/Bodega.php on line 10
+[02-Sep-2021 11:28:38 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 23
+[02-Sep-2021 11:28:38 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 23
+[02-Sep-2021 11:28:38 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 35
+[02-Sep-2021 11:28:38 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 35
+[02-Sep-2021 11:28:38 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 47
+[02-Sep-2021 11:28:38 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 47
+[02-Sep-2021 11:28:38 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 59
+[02-Sep-2021 11:28:38 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 59
+[02-Sep-2021 11:28:38 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 71
+[02-Sep-2021 11:28:38 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 71
+[02-Sep-2021 11:28:38 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 129
+[02-Sep-2021 11:28:38 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 129
+[02-Sep-2021 11:28:52 America/Bogota] PHP Notice:  Undefined variable: datos in /home/senasede/public_html/siginv/app/controllers/Bodega.php on line 10
+[02-Sep-2021 11:28:52 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 23
+[02-Sep-2021 11:28:52 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 23
+[02-Sep-2021 11:28:52 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 35
+[02-Sep-2021 11:28:52 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 35
+[02-Sep-2021 11:28:52 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 47
+[02-Sep-2021 11:28:52 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 47
+[02-Sep-2021 11:28:52 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 59
+[02-Sep-2021 11:28:52 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 59
+[02-Sep-2021 11:28:52 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 71
+[02-Sep-2021 11:28:52 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 71
+[02-Sep-2021 11:28:52 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 129
+[02-Sep-2021 11:28:52 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 129
+[02-Sep-2021 11:30:58 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 23
+[02-Sep-2021 11:30:58 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 23
+[02-Sep-2021 11:30:58 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 35
+[02-Sep-2021 11:30:58 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 35
+[02-Sep-2021 11:30:58 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 47
+[02-Sep-2021 11:30:58 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 47
+[02-Sep-2021 11:41:23 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 23
+[02-Sep-2021 11:41:23 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 23
+[02-Sep-2021 11:41:23 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 35
+[02-Sep-2021 11:41:23 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 35
+[02-Sep-2021 11:41:23 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 47
+[02-Sep-2021 11:41:23 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 47
+[02-Sep-2021 11:41:23 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 59
+[02-Sep-2021 11:41:23 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 59
+[02-Sep-2021 11:41:23 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 71
+[02-Sep-2021 11:41:23 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 71
+[02-Sep-2021 11:42:04 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 26
+[02-Sep-2021 11:42:04 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 26
+[02-Sep-2021 11:42:04 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 38
+[02-Sep-2021 11:42:04 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 38
+[02-Sep-2021 11:42:04 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 50
+[02-Sep-2021 11:42:04 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 50
+[02-Sep-2021 11:42:04 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 104
+[02-Sep-2021 11:42:04 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 104
+[02-Sep-2021 11:44:26 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 26
+[02-Sep-2021 11:44:26 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 26
+[02-Sep-2021 11:44:26 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 38
+[02-Sep-2021 11:44:26 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 38
+[02-Sep-2021 11:44:26 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 50
+[02-Sep-2021 11:44:26 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 50
+[02-Sep-2021 11:44:26 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 103
+[02-Sep-2021 11:44:26 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 103
+[02-Sep-2021 11:45:14 America/Bogota] PHP Notice:  Undefined variable: datos in /home/senasede/public_html/siginv/app/controllers/Bodega.php on line 10
+[02-Sep-2021 11:45:14 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 23
+[02-Sep-2021 11:45:14 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 23
+[02-Sep-2021 11:45:14 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 35
+[02-Sep-2021 11:45:14 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 35
+[02-Sep-2021 11:45:14 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 47
+[02-Sep-2021 11:45:14 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 47
+[02-Sep-2021 11:45:14 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 59
+[02-Sep-2021 11:45:14 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 59
+[02-Sep-2021 11:45:14 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 71
+[02-Sep-2021 11:45:14 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 71
+[02-Sep-2021 11:45:14 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 129
+[02-Sep-2021 11:45:14 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 129
+[02-Sep-2021 11:46:21 America/Bogota] PHP Notice:  Undefined variable: datos in /home/senasede/public_html/siginv/app/controllers/Bodega.php on line 10
+[02-Sep-2021 11:46:21 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 23
+[02-Sep-2021 11:46:21 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 23
+[02-Sep-2021 11:46:21 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 35
+[02-Sep-2021 11:46:21 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 35
+[02-Sep-2021 11:46:21 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 47
+[02-Sep-2021 11:46:21 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 47
+[02-Sep-2021 11:46:21 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 59
+[02-Sep-2021 11:46:21 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 59
+[02-Sep-2021 11:46:21 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 71
+[02-Sep-2021 11:46:21 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 71
+[02-Sep-2021 11:46:21 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 131
+[02-Sep-2021 11:46:21 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Bodega/ListarBodega.php on line 131
+[02-Sep-2021 11:51:37 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/senasede/public_html/siginv/app/libraries/Core.php on line 17
+[02-Sep-2021 11:51:53 America/Bogota] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/senasede/public_html/siginv/app/views/inventario/materiales/ListadoMateriales.php on line 102
+[02-Sep-2021 11:51:56 America/Bogota] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'Ajax' does not have a method 'index' in /home/senasede/public_html/siginv/app/libraries/Core.php on line 44
+[02-Sep-2021 11:52:02 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 26
+[02-Sep-2021 11:52:02 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 26
+[02-Sep-2021 11:52:02 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 38
+[02-Sep-2021 11:52:02 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 38
+[02-Sep-2021 11:52:02 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 50
+[02-Sep-2021 11:52:02 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 50
+[02-Sep-2021 11:52:02 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 103
+[02-Sep-2021 11:52:02 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Ambiente/ListarAmbiente.php on line 103
+[02-Sep-2021 12:04:01 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 23
+[02-Sep-2021 12:04:01 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 23
+[02-Sep-2021 12:04:01 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 35
+[02-Sep-2021 12:04:01 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 35
+[02-Sep-2021 12:04:01 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 47
+[02-Sep-2021 12:04:01 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 47
+[02-Sep-2021 12:04:01 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 59
+[02-Sep-2021 12:04:01 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 59
+[02-Sep-2021 12:04:01 America/Bogota] PHP Notice:  Undefined index: ListarBodegas in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 71
+[02-Sep-2021 12:04:01 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/senasede/public_html/siginv/app/views/configuracion/Gaveta/RegistrarGaveta.php on line 71
