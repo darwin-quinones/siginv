@@ -37,7 +37,7 @@
                                 <label>Nombre Ambiente:</label>
                                 <input onkeyup="mayus(this);" type="text" class="form-control" value="<?php echo $datos['ambienteNombre'] ?>" id="ambienteNombre"><br>
 
-                                <input onkeyup="mayus(this);" type="text" class="form-control" value="<?php echo $datos['idAmbiente'] ?>" id="idAmbiente"><br>
+                                <input onkeyup="mayus(this);" type="hidden" class="form-control" value="<?php echo $datos['idAmbiente'] ?>" id="idAmbiente"><br>
                             </div>
                             <label>Responsable:</label>
                             <select class="form-control" id="ambienteInstructor">
@@ -220,7 +220,7 @@
                                 AmbientesExists = false;
                                 break;
                             }*/
-                            Existe();
+                           /*  Existe(); */
                             AmbientesExists = true;
                             break;
                         }
